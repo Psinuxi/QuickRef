@@ -1,7 +1,7 @@
 # QuickRef
 
 ## Description
-QuickRef is a standalone app for artist to do timed studies of images saved locally. 
+QuickRef is a standalone app for artists to do timed studies of images saved locally. 
 
 There are 3 categories: **Nude**, **Clothed**, and **portrait**. I may add more flexibility there later, but these are the categories I use most often. There is nothing from stopping you from using the categories for something other than they are labelled.
 
