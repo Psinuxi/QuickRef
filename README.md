@@ -29,4 +29,4 @@ _Note that you will need to set the directory first if it is not set by clicking
 
 
 # Known Issues
- the default PictureBox doesn't seem to like rotation metadata very much, so images with a rotation may not appear correctly. This can be fixed by rexporting the image through any image editting software, but doing so in an image viewer won't work.
+The default PictureBox doesn't seem to like rotation metadata very much, so images with a rotation may not appear correctly. This can be fixed by rexporting the image through any image editting software, but doing so in an image viewer won't work.
